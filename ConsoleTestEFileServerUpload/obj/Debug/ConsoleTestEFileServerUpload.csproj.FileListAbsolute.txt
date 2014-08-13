@@ -20,3 +20,14 @@ C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\ConsoleTestEFileServerU
 C:\Users\donaldloo\Documents\Visual Studio 2013\Projects\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\bin\Debug\System.Net.Http.Formatting.xml
 D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\obj\Debug\ConsoleTestEFileServerUpload.exe
 D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\obj\Debug\ConsoleTestEFileServerUpload.pdb
+D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\bin\Debug\ConsoleTestEFileServerUpload.exe
+D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\bin\Debug\ConsoleTestEFileServerUpload.pdb
+D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\bin\Debug\Ames.Component.dll
+D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\bin\Debug\Ames.Entities.dll
+D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\bin\Debug\Newtonsoft.Json.dll
+D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\bin\Debug\System.Net.Http.Formatting.dll
+D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\bin\Debug\Ames.Component.pdb
+D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\bin\Debug\Ames.Entities.pdb
+D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\bin\Debug\Newtonsoft.Json.xml
+D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\bin\Debug\System.Net.Http.Formatting.xml
+D:\AMES_Git\ConsoleTestEFileServerUpload\ConsoleTestEFileServerUpload\obj\Debug\ConsoleTestEFileServerUpload.csprojResolveAssemblyReference.cache
